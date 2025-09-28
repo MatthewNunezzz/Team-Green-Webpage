@@ -1,35 +1,34 @@
----
-layout: home
-title: Home
-nav_order: 1
----
-
-# Project Title – Group N
-
-Welcome! This site tracks **group members & roles**, **meetings & activities**, and **upcoming schedules**.
-
-- 👉 **Members & Roles:** see below
-- 📝 **Meetings & Activities:** see [Meetings](./meetings.md)
-- 📅 **Upcoming Schedule:** see [Schedule](./schedule.md)
+# SitePro - Computer Vision: Smoke/Fire & Safety
 
 ---
 
 ## Group Members & Roles
 
-| Member | Role(s) | Responsibilities | Contact |
-|---|---|---|---|
-| Jane Doe | Team Lead / Backend | Agenda, API design, integrations | jane@example.com |
-| John Smith | Frontend / UX | UI components, accessibility | john@example.com |
-| Alex Kim | Data / Testing | Data cleaning, test plans | alex@example.com |
-| Riley Patel | DevOps / Docs | CI/CD, deployments, docs | riley@example.com |
-
-> _Tip:_ Keep roles short and responsibility bullets concrete (what you **own**).
+| Member | Roles/Responsibilities |
+|---|---|
+| Matthew Nunez | Team Lead / Data Cleaning/Preprocessing |
+| Ian De Vries | Model Training, Registry, & Distribution |
+| Tanner Owens | Integration with SitePro Edge API for alerts/logs |
+| Joshua Ruegge | Computer Vision for Inference |
+| Ryan Sager | Post-Preprocessing: Evaluate Detections against Business Logic |
 
 ---
 
-## Quick Links
-- 📄 Project repo: <https://github.com/USERNAME/PROJECT>
-- 🗂️ Docs: `/docs` folder (optional)
-- ✉️ Team lead: jane@example.com
+## Group Meetings and Activities
+
+| Datetime | Location | Description |
+|---|---|---|
+| Sep 19th 1:00pm-1:30pm | Zoom | Discussing SitePro Project Selection |
+| Sep 23th 1:00pm-2:30pm | SitePro Office | SitePro Team Introduction |
+| Sep 24th 4:30pm-5:00pm | Discord | Capstone Stage One Discussion |
+| Sep 26th 4:00pm-4:15pm | Zoom | Interview w/ SitePro AI Engineer |
+
+---
+
+## Upcoming Schedule
+
+| Datetime | Location | Description |
+|---|---|---|
+| Sep 30th 2:00pm-2:30pm | SitePro Office | Getting Access to SitePro tools |
 
 _Last updated: Sep 27, 2025_
