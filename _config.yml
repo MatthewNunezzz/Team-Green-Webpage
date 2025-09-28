@@ -1,0 +1,6 @@
+title: Group N – Project Title
+description: Members & roles, meetings & activities, and upcoming schedules.
+theme: minima
+# Optional tweaks:
+minima:
+  skin: auto
