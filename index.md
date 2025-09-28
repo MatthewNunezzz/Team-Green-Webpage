@@ -1,6 +1,7 @@
 ---
 layout: page
-title: "SitePro – Computer Vision: Smoke/Fire & PPE Compliance Detection"
+title: ""
+nav_title: "SitePro – Computer Vision: Smoke/Fire & PPE Compliance Detection"
 nav_order: 1
 ---
 
