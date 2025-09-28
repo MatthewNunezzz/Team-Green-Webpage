@@ -1,6 +1,7 @@
-# SitePro - Computer Vision: Smoke/Fire & Safety
-
 ---
+layout: page
+title: "SitePro – Computer Vision: Smoke/Fire & Safety"
+nav_order: 1
 
 ## Group Members & Roles
 
