@@ -1,8 +1,7 @@
 ---
-layout: page
-title: ""
-nav_title: "SitePro – Computer Vision: Smoke/Fire & PPE Compliance Detection"
-nav_order: 1
+layout: default
+title: "SitePro – Computer Vision: Smoke/Fire & PPE Compliance Detection"
+permalink: /
 ---
 
 ## Group Members & Roles
