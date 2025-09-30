@@ -24,6 +24,9 @@ permalink: /
 | Sep 23th 1:00pm-2:30pm | SitePro Office | SitePro Team Introduction |
 | Sep 24th 4:30pm-5:00pm | Discord | Capstone Stage One Discussion |
 | Sep 26th 4:00pm-4:15pm | Zoom | Interview w/ SitePro AI Engineer |
+| Sep 29th 4:00pm-5:00pm | Discord | Stage 1 Report & Presentation Work Session |
+| Sep 30th 2:00pm-2:30pm | SitePro Office | Discussed Project Requirements |
+
 
 ---
 
@@ -31,6 +34,6 @@ permalink: /
 
 | Datetime | Location | Description |
 |---|---|---|
-| Sep 30th 2:00pm-2:30pm | SitePro Office | Getting Access to SitePro tools |
+| Oct 7th 2:00pm-2:30pm | SitePro Office | Getting Access to SitePro tools |
 
-_Last updated: Sep 27, 2025_
+_Last updated: Sep 30, 2025_
