@@ -26,6 +26,7 @@ permalink: /
 | Sep 26th 4:00pm-4:15pm | Zoom | Interview w/ SitePro AI Engineer |
 | Sep 29th 4:00pm-5:00pm | Discord | Stage 1 Report & Presentation Work Session |
 | Sep 30th 2:00pm-2:30pm | SitePro Office | Discussed Project Requirements |
+| Oct 7th 2:30pm-4:00pm | SIMFLO Office | Site tour |
 
 
 ---
@@ -34,6 +35,6 @@ permalink: /
 
 | Datetime | Location | Description |
 |---|---|---|
-| Oct 7th 2:00pm-2:30pm | SitePro Office | Getting Access to SitePro tools |
+| Oct 14th 2:00pm-2:30pm | SitePro Office | Getting Access to SitePro Data |
 
-_Last updated: Sep 30, 2025_
+_Last updated: Oct 13th, 2025_
