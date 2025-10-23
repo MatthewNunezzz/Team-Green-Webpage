@@ -30,6 +30,7 @@ permalink: /
 | Oct 14th 2:00pm-2:30pm | SitePro Office | Getting Access to SitePro Data |
 | Oct 22th 4:30pm-5:00pm | Discord | Stage 2 Work Session |
 | Oct 23th 5:00pm-5:30pm | Discord | Stage 2 Report & Powerpoint Session |
+
 ---
 
 ## Upcoming Schedule
