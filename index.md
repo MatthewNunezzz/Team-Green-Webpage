@@ -8,11 +8,11 @@ permalink: /
 
 | Member | Roles/Responsibilities |
 |---|---|
-| Matthew Nunez | Team Lead / Data Cleaning/Preprocessing |
-| Ian De Vries | Model Training, Registry, & Distribution |
-| Tanner Owens | Integration with SitePro Edge API for alerts/logs |
-| Joshua Ruegge | Computer Vision for Inference |
-| Ryan Sager | Post-Preprocessing: Evaluate Detections against Business Logic |
+| Matthew Nunez | Team Lead / Optimizing Inference on Jetson Device |
+| Ian De Vries | Interacting with SitePro Model Registry via EdgeAPI |
+| Tanner Owens | PPE Model Training |
+| Joshua Ruegge | Model Inference & Detections Pipeline |
+| Ryan Sager | Fire and Smoke Model Training |
 
 ---
 
@@ -31,7 +31,12 @@ permalink: /
 | Oct 22th 4:30pm-5:00pm | Discord | Stage 2 Work Session |
 | Oct 23th 5:00pm-5:30pm | Discord | Stage 2 Report & Powerpoint Session |
 | Oct 28th 2:00pm-2:30pm | SitePro Office | Getting Access to SitePro Data |
-
+| Oct 31st 4:00pm-4:30pm | Discord | Project Implementation Plan |
+| Nov 4th 2:00pm-2:30pm | SitePro Office | Guidance on Model Training |
+| Nov 11th 2:00pm-2:30pm | SitePro Office | Guidance on Inference & Sending Alerts |
+| Nov 17th 3:00pm-4:00pm | Catholic Student Center | Planning the Live Demo |
+| Nov 18th 2:00pm-2:30pm | SitePro Office | Project Demo & User Validation |
+| Nov 18th 3:00pm-4:00pm | ECE 101 | Project Demo Rehearsal |
 ---
 
 ## Upcoming Schedule
