@@ -37,11 +37,14 @@ permalink: /
 | Nov 17th 3:00pm-4:00pm | Catholic Student Center | Planning the Live Demo |
 | Nov 18th 2:00pm-2:30pm | SitePro Office | Project Demo & User Validation |
 | Nov 18th 3:00pm-4:00pm | ECE 101 | Project Demo Rehearsal |
+
 ---
 
 ## Upcoming Schedule
 
 | Datetime | Location | Description |
 |---|---|---|
+
+---
 
 _Last updated: Nov 20th, 2025_
