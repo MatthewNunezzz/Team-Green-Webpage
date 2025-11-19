@@ -43,7 +43,5 @@ permalink: /
 
 | Datetime | Location | Description |
 |---|---|---|
-| Oct 31st 4:30pm-5:00pm | Discord | Discussing Stage 3 of Project |
-| Nov 4th 2:00pm-2:30pm | SitePro Office | Discussing Model Training & Inference |
 
-_Last updated: Oct 30th, 2025_
+_Last updated: Nov 20th, 2025_
