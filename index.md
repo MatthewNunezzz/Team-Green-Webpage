@@ -49,10 +49,16 @@ permalink: /
 ---
 
 ## Fire and Smoke Detection Demo
-<video src="ppe_demo.mp4" width="320" height="240" controls></video>
+<video width="320" height="240" controls>
+  <source src="ppe_demo.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
 
 ## PPE Hard Hat Detection Demo
-<video src="sitepro_fire_demo.mp4" width="320" height="240" controls></video>
+<video width="320" height="240" controls>
+  <source src="sitepro_fire_demo.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
 
 ---
 
