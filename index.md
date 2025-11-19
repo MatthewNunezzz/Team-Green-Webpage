@@ -45,6 +45,7 @@ permalink: /
 | Datetime | Location | Description |
 |---|---|---|
 | TBD | SitePro Office | Drop Off the Jetson |
+
 ---
 
 _Last updated: Nov 20th, 2025_
