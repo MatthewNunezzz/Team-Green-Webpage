@@ -48,4 +48,12 @@ permalink: /
 
 ---
 
+## Fire and Smoke Detection Demo
+<video src="path/to/video.mp4" width="320" height="240" controls></video>
+
+## PPE Hard Hat Detection Demo
+<video src="path/to/video.mp4" width="320" height="240" controls></video>
+
+---
+
 _Last updated: Nov 20th, 2025_
